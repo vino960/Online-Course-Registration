@@ -1,7 +1,7 @@
 💻 Online Course Registration
 ---
 
-📽️ coursepage Features (index.html)
+📽️ coursepage Features 
 ---
 
 - Includes a demo of one sample course
@@ -15,7 +15,7 @@
   - Name, email, password fields
   - Course selection(AI, Web Development, Java, etc.)
 
-## 🧭 Navigation
+ 🧭 Navigation
 ---
 
 All pages are interconnected for easy navigation:
