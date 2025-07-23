@@ -28,4 +28,5 @@ All pages are interconnected for easy navigation:
 
 🔗 Live Demo
 ---
-Click here to view the live website(https://vino960.github.io/Online-Course-Registration/)
+[Click here to view the live website](https://yourusername.github.io/foodwebpage/)
+
