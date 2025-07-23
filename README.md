@@ -1,7 +1,7 @@
 💻 Online Course Registration
 ---
 
-📽️ Homepage Features (index.html)
+📽️ coursepage Features (index.html)
 ---
 
 - Includes a demo of one sample course
