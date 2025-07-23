@@ -26,7 +26,4 @@ All pages are interconnected for easy navigation:
 - `forgot.html` → Password reset
 - `newpassword.html` → New password setup
 
-🔗 Live Demo
----
-[Click here to view the live website]( https://vino960.github.io/Online-Course-Registration/)
 
